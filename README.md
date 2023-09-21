@@ -30,3 +30,8 @@ npm install
   2. DataState : Used to manage State at top level of application and provide those state directly to different components of application
 - `public/`: Static assets
 
+## Home Page   
+<img width="790" alt="Screenshot 2023-09-22 at 3 28 00 AM" src="https://github.com/rohan-singh987/infinitescroll/assets/76906632/559c3045-fb73-4189-b1f2-267f0e6d66fe">
+
+## Card Page
+<img width="790" alt="Screenshot 2023-09-22 at 3 28 57 AM" src="https://github.com/rohan-singh987/infinitescroll/assets/76906632/897f9691-e471-43f3-9c1d-9499a412763e">

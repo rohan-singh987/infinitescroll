@@ -1,7 +1,5 @@
 # Infinte Scroll
-```
-https://infinitescroll-f1afb.web.app
-```
+[HostedLink](https://infinitescroll-f1afb.web.app)
 
 ## Installation
 To set up this project on your local machine, follow these steps:
@@ -17,7 +15,9 @@ npm install
 ```
 
 ## Usage
-` npm run dev `
+```
+npm run dev
+```
 
 ## Folder Structure
 - `src/`: Source code

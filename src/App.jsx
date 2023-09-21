@@ -5,7 +5,7 @@ import DataState from './Context/DataState'
 
 const App = () => {
   return (
-    <div className=' h- bg- '>
+    <div className=''>
       <DataState>
         <Routes >
           <Route path='/' element={<Home />} />
